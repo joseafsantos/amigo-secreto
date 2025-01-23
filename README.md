@@ -1,0 +1,1 @@
+Projeto criado com a finalidade de criar uma lista de amigos e realizar um sorteio com esses amigos.
